@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Kadriye Bolg',
+  title: 'Kadriye’s Bolg',
   author: 'Kadriye',
   email: 'luwei.br@gmail.com',
   link: 'https://nobelium.vercel.app',
