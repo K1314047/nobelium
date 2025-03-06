@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Kadriye’s Bolg',
-  author: 'Kadriye',
+  title: 'Mr. Jonathan Anderson II’s Bolg',
+  author: 'Jonathan Anderson II',
   email: 'luwei.br@gmail.com',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
