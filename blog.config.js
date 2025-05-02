@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Mr. Jonathan Anderson II’s Bolg',
-  author: 'Jonathan Anderson II',
+  title: 'Cw’s Bolg',
+  author: 'Cw',
   email: 'luwei.br@gmail.com',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://x.com/83838052_',
+  socialLink: 'https://x.com/ayig61',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
